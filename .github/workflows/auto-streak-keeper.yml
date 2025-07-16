@@ -31,7 +31,7 @@ jobs:
           min-commits: 2
           max-commits: 5
           commit-message: "Completed learning some topics of JS - ${{ steps.date.outputs.date }}"
-          user-name: "prajwallshetty"
-          user-email: "prajwal0shetty11@gmail.com"
+          user-name: "bharathjeed"
+          user-email: "bharathbkulal@gmail.com"
           github-token: ${{ secrets.GITHUB_TOKEN }}
           branch-name: "main"
